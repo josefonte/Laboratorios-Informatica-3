@@ -7,6 +7,6 @@ No âmbito da cadeira de Laboratórios de Informática III, o trabalho foi desen
 * Guião 2 - 10 queries (estatísticas e não estatísticas) e estuturas de dados
 * Guião 3 - Interface e Testes. 
 
-Outros dois importantes requisitos da cadeira é a implementação de __encapsulamento de dados__ e __modularidade__,assim como, a o uso de estruturas de dados e algoritmos eficientes na boa gestão de memória pois os ficheiros são de grandes dimensões (+1 milhão de registos cada).  
+Outros dois importantes requisitos da cadeira é a implementação de __encapsulamento de dados__ e __modularidade__, assim como, o uso de estruturas de dados e algoritmos eficientes na __boa gestão de memória__ pois os ficheiros são de grandes dimensões (+1 milhão de registos cada).  
 
 Universidade do Minho | M.I. em Engenharia Informática | 2º Semestre | 1º Ano | Ano Letivo 20/21
