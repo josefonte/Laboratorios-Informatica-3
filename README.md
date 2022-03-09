@@ -6,6 +6,7 @@ No âmbito da cadeira de Laboratórios de Informática III, o trabalho foi desen
 * fazer o seu parsing
 * responder a 10 queries (estatísticas e não estatísticas)
 * apresentar os dados numa interface. 
+
 Outros dois importantes requisitos da cadeira foram a implementação de _encapsulamento de dados_ e modularidade. 
 
 Universidade do Minho | M.I. em Engenharia Informática | 2º Semestre | 1º Ano | Ano Letivo 20/21
