@@ -1,6 +1,6 @@
 # Laboratorios-Informatica-III
 
-### Grupo 67 - [Hugo Martins](https://github.com/hugomartins22) | [João Escudeiro](https://github.com/jbtescudeiro16)  |  [José Pedro Fonte](https://github.com/josef8) 
+### Grupo 67 - [Hugo Martins](https://github.com/hugomartins22) | [João Escudeiro](https://github.com/jbtescudeiro16)  |  [José Fonte](https://github.com/josefonte) 
 
 No âmbito da cadeira de Laboratórios de Informática III, o trabalho foi desenvolvido em C com o objetivo de analisar ficheiros de grandes dimensões e cumprir 3 guiões:
 * Guião 1 - Parsing dos Ficheiros
